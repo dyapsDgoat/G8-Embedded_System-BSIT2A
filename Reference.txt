@@ -1,0 +1,19 @@
+Coursera. (2022). What Are Embedded Systems (+ How to Work with Them). Coursera. https://www.coursera.org/articles/embedded-systems?fbclid=IwAR2U-yiyLaf9NuU39222af2_yklZydyLqITaWUpiQKy4eixiCGR75e8cx7g
+
+Bose, A., & Bose, A. (2018). Embedded System – Characteristics, Types, Advantages & Disadvantages. electricalfundablog.com. https://electricalfundablog.com/embedded-system-characteristics-types-advantages-disadvantages/?fbclid=IwAR00GZUB_oxZCkLdnlQkL1M5rpMQ5BwJZHvwxwwWA3K9h-5pmFfm1EIhjlQ
+
+Andrewshaw. (2021). Components of Embedded Systems. The Engineering Projects. https://www.theengineeringprojects.com/2021/03/components-of-embedded-systems.html?fbclid=IwAR00GZUB_oxZCkLdnlQkL1M5rpMQ5BwJZHvwxwwWA3K9h-5pmFfm1EIhjlQ
+
+Syedzainnasir. (2021). Real Life Examples of Embedded Systems. The Engineering Projects. https://www.theengineeringprojects.com/2016/11/examples-of-embedded-systems.html?fbclid=IwAR3pGwpRzA423O8PgJMMwQsnQ8KZoa8azDNAe4boCDSdFrHTroLvU1M-PUc
+
+Embedded Markets Study Integrating IoT and Advanced Technology Designs, Application Development & Processing Environments. (2019). https://www.embedded.com/wpcontent/uploads/2019/11/EETimes_Embedded_2019_Embedded_Markets_Study.pdf?fbclid=IwAR2EPESNCd9J_NcWhua4aGysxaEfrzk38SpeKAshlOLNS_ntjUvJTeF4poE
+
+What Are Embedded Systems Used For? (2021, June 28). KO2 Recruitment.https://www.ko2.co.uk/what-are-embedded-systems-used-for/#:~:text=The%20purpose%20of%20embedded%20systems%20is%20to%20control%20a%20specific
+Cherkaoui, A., Merzouk, S., Marzak, A., & Hain, M. (2021). Review on Embedded Systemsand the Internet of Things: Comparative Study. The 4th International Conference on Networking, Information Systems Amp Security. https://doi.org/10.1145/3454127.3457636
+
+Nureni, Yekini. (2022). OVERVIEW OF EMBEDDED SYSTEM & ITS APPLICATION.https://www.researchgate.net/publication/361562662_OVERVIEW_OF_EMBEDDED_SYSTEM_ITS_APPLICATION
+
+Richard Zurawski. (2009). Embedded Systems Handbook Networked Embedded Systems
+https://www.taylorfrancis.com/books/edit/10.1201/9781439807620/embedded-systems-handbook-richard-zurawski
+
+What is an Embedded System? (n.d.). IoT Agenda.https://www.techtarget.com/iotagenda/definition/embedded-system#:~:text=An%20embedded%20system%20is%20a
